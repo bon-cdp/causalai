@@ -1,0 +1,10 @@
+# CausalAI dependencies for Streamlit Cloud deployment
+networkx>=3.2
+pydantic>=2.0
+dowhy>=0.11
+dashscope>=1.0
+aiohttp>=3.9
+numpy>=1.26
+scipy>=1.12
+streamlit>=1.30
+pyvis>=0.3
